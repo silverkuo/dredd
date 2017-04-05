@@ -1,0 +1,3 @@
+com.antutu.ABenchMark=1992000
+com.antutu.tester=1992000
+com.antutu.ABenchMark.GL2=1992000
